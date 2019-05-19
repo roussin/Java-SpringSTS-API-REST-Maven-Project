@@ -1,5 +1,6 @@
-# Java-SpringSTS-APIRest
-Project Java API rest with Spring STS
+# Java-SpringSTS-APIREST-Maven-Project
+
+Maven Project Java API rest with Spring STS
 
 # REST / RESTful
 Une API dites REST (Representation State Transfer) est une API qui respecte certaines conventions et bonnes pratiques, il n’y a pas de technologie ou de langage REST.
